@@ -34,12 +34,8 @@ try {
     Copy-Item -LiteralPath (Join-Path $repo 'CONTRIBUTING.md') -Destination $pkg -Force
     foreach ($doc in @(
         'INSTALL.md', 'COMMANDS.md', 'TROUBLESHOOTING.md',
-        'RUNTIME_VERIFICATION.md', 'PRIVACY_AUDIT.md', 'NATIVE_API_AUDIT.md',
-        'DEVELOPER.md', 'CI.md', 'COMMAND_TEST_MATRIX.md',
-        'PUBLIC_ALPHA_RELEASE_CHECKLIST.md', 'SCROLL_PERSISTENCE_INVESTIGATION.md',
         'EQUIPMENT_NAMES.md', 'AUTOCOMPLETE.md', 'UI_MODES.md',
-        'COMMAND_CHANGELOG_DC-M4.md',
-        'WORKBENCH.md',
+        'WORKBENCH.md', 'STEAM_LAUNCH_COMPATIBILITY.md',
         'DC-M5_PUBLIC_RELEASE_REPORT.md',
         'RELEASE_NOTES_v0.1.0-alpha.md')) {
         Copy-Item -LiteralPath (Join-Path $repo ('docs\' + $doc)) `

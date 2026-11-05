@@ -69,8 +69,7 @@
   `ColorlessUp`/stat affixes or a temporary `player stat` override.
 - If `player scroll` reports a failure, no native scroll count should change;
   an over-removal is refused before mutation.
-- Live save/resume confirmation is still pending; see
-  `docs/SCROLL_PERSISTENCE_INVESTIGATION.md`.
+- Live save/resume confirmation is still pending.
 
 ## A command is rejected for length, quotes, or too many arguments
 

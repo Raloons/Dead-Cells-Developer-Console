@@ -136,10 +136,10 @@ save
 
 ## Lifecycle
 
-Switch through `ui classic`, `ui fancy`, `ui compact`, `ui inspector`,
-`uimode cohesive`. Check Tab/Shift+Tab, Enter, Up/Down, Page Up/Down,
-input lock/restoration, output fit, config reload and resolution changes.
-Use the full M4-01…M4-06 matrix in `docs/RUNTIME_VERIFICATION.md`.
+Toggle the console, resize with `consize`, check Tab/Shift+Tab, Enter,
+Up/Down, Page Up/Down, input lock/restoration, output fit, config reload and
+resolution changes. Use the R01–R20/H01, M4-01–M4-06 and M4.4-01–M4.4-04 checks
+(see git history for the retired verification matrix).
 
 - [ ] Transition to another level with the console closed.
 - [ ] Reopen and run `player status` and `debug catalog`.
@@ -158,4 +158,4 @@ Use the full M4-01…M4-06 matrix in `docs/RUNTIME_VERIFICATION.md`.
 
 For each check, record the status category, command, observation, log
 excerpt, screenshot path, and any uncertainty in
-`docs/RUNTIME_VERIFICATION.md` and the session `evidence.json`.
+the session `evidence.json`.

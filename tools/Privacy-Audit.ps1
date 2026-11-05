@@ -21,7 +21,6 @@ try {
 }
 
 $excluded = @(
-    "docs/PRIVACY_AUDIT.md",
     "tools/Privacy-Audit.ps1",
     "tools/Build-Release.ps1",
     "fixture/Test-FixtureAdmission.ps1",

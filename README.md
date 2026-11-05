@@ -5,7 +5,8 @@ A standalone, MIT-licensed developer console for **Dead Cells v35 / DCCM
 
 **Release candidate prepared; public release not yet authorized.** The console
 is offline-complete and has been exercised in authorized disposable sessions;
-remaining native checks are listed in [runtime verification](docs/RUNTIME_VERIFICATION.md).
+remaining native checks (R01–R20/H01, M4-01…M4-06, M4.4-01…M4.4-04) are tracked
+in git history.
 
 ## Features
 
@@ -126,13 +127,12 @@ its own folder; edit it and run `config reload`.
 
 ## Documentation
 
-- [Command reference](docs/COMMANDS.md) and [command changelog](docs/COMMAND_CHANGELOG_DC-M4.md)
+- [Command reference](docs/COMMANDS.md)
 - [Name resolution and English aliases](docs/EQUIPMENT_NAMES.md)
 - [Autocomplete](docs/AUTOCOMPLETE.md)
 - [Troubleshooting](docs/TROUBLESHOOTING.md)
-- [Developer architecture](docs/DEVELOPER.md) and [native API audit](docs/NATIVE_API_AUDIT.md)
-- [Release notes](docs/RELEASE_NOTES_v0.1.0-alpha.md) and [runtime matrix](docs/RUNTIME_VERIFICATION.md)
-- [Steam launch & Workshop compatibility](docs/STEAM_LAUNCH_COMPATIBILITY.md) — Workshop publication held pending compatibility + authorization
+- [Release notes](docs/RELEASE_NOTES_v0.1.0-alpha.md)
+- [Steam launch & Workshop compatibility](docs/STEAM_LAUNCH_COMPATIBILITY.md)
 - [DC-M5 public release report](docs/DC-M5_PUBLIC_RELEASE_REPORT.md)
 
 ## Contributing

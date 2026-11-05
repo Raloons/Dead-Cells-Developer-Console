@@ -75,8 +75,7 @@ output, native input row, history, lightweight completion, `consize` sizing.
 All remaining registered commands keep their behavior. Old `workbench`,
 `browse`, `pin`, `unpin` and multi-mode `uimode` invocations now fail with a
 usage message instead of falling through silently. Old configuration files
-use defaults for new fields and ignore retired keys. See
-`docs/COMMAND_CHANGELOG_DC-M4.md` in the package.
+use defaults for new fields and ignore retired keys.
 
 ## Verification and limits
 
