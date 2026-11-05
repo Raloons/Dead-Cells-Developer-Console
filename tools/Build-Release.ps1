@@ -36,7 +36,6 @@ try {
         'INSTALL.md', 'COMMANDS.md', 'TROUBLESHOOTING.md',
         'EQUIPMENT_NAMES.md', 'AUTOCOMPLETE.md', 'UI_MODES.md',
         'WORKBENCH.md', 'STEAM_LAUNCH_COMPATIBILITY.md',
-        'DC-M5_PUBLIC_RELEASE_REPORT.md',
         'RELEASE_NOTES_v0.1.0-alpha.md')) {
         Copy-Item -LiteralPath (Join-Path $repo ('docs\' + $doc)) `
             -Destination (Join-Path $pkg 'docs') -Force

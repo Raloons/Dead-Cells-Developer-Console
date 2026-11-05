@@ -1,6 +1,6 @@
 ﻿# Developer Console v0.1.0-alpha — DC-M5 release candidate
 
-No source changes since the validated R16 binary; this release refreshes documentation, the release draft, and the public export. See `DC-M5_PUBLIC_RELEASE_REPORT.md`.
+No source changes since the validated R16 binary; this release refreshes documentation, the release draft, and the public export.
 
 **Local pre-publication candidate. Offline-complete; native retest pending.**
 Target: Dead Cells v35 / DCCM 35.13.8. Mod/assembly version remains 0.1.0.
@@ -79,11 +79,10 @@ use defaults for new fields and ignore retired keys.
 
 ## Verification and limits
 
-- The command/catalog/scroll/history/layout/config suite passes (294 checks);
-  exact scope is recorded in `DC-M5_PUBLIC_RELEASE_REPORT.md`. Two
-  installed-template file contracts confirm Rusty Sword/Assault Shield identities.
+- The command/catalog/scroll/history/layout/config suite passes (294 checks).
+  Two installed-template file contracts confirm Rusty Sword/Assault Shield identities.
 - Release/Debug builds, assembly-reference/privacy/package audits, synthetic
-  installer tests and negative authorization tests are recorded in the DC-M5 report.
+  installer tests and negative authorization tests all pass.
 - Earlier R5 manual gameplay demonstrated the foundation, not this candidate.
 - GetText, native spawning by the new inputs, UI layering/font/focus/completion,
   lifecycle/resize behavior and native save/resume all require manual retesting.

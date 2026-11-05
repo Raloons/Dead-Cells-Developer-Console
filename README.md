@@ -133,7 +133,6 @@ its own folder; edit it and run `config reload`.
 - [Troubleshooting](docs/TROUBLESHOOTING.md)
 - [Release notes](docs/RELEASE_NOTES_v0.1.0-alpha.md)
 - [Steam launch & Workshop compatibility](docs/STEAM_LAUNCH_COMPATIBILITY.md)
-- [DC-M5 public release report](docs/DC-M5_PUBLIC_RELEASE_REPORT.md)
 
 ## Contributing
 
