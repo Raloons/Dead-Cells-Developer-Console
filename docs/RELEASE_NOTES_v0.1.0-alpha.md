@@ -20,8 +20,6 @@ Target: Dead Cells v35 / DCCM 35.13.8. Mod/assembly version remains 0.1.0.
 - `itemid` returns one green `Display (ID)` line; `>` prompt shares the
   input baseline by construction.
 
-See `DC-M4.6_CONSOLE_QOL_MUTATIONS_REPORT.md`.
-
 - Compact classic typography (title/body 13, denser lines) and a concise
   one-line-per-command Help listing; `help <command>` detail unchanged.
 - Spawn pipeline audited release-blocker-style: `spawn assault shield` is
@@ -32,8 +30,6 @@ See `DC-M4.6_CONSOLE_QOL_MUTATIONS_REPORT.md`.
   must not be guessed into existence).
 - Director-observed scroll persistence (set/add survive menu/continue)
   recorded in H01 with exact scope; implementation untouched.
-
-See `DC-M4.5_CONSOLE_SPAWN_REPAIR_REPORT.md`.
 
 ### DC-M4.4 simplification (retained)
 
@@ -47,15 +43,13 @@ output, native input row, history, lightweight completion, `consize` sizing.
 - Retired commands: `workbench` (`desk`), `browse`, `pin`, `unpin`.
 - Retired config keys (`UiMode`, `Accent`, `Density`) are ignored when present
   in old files; nothing crashes.
-- `uimode` now only reports/switches native input placement
-  (`transplant`/`cohesive`).
+- `uimode` (`ui`, `theme`) was removed in DC-M4.6; the transplant input
+  layout stays on with no user-facing switch.
 - Preserved: every gameplay command, natural-name resolution, English aliases,
   equipment search/inspection/spawning, level/quality/legendary options,
   `ss`/`as`/`rs` inventory-backed scrolls, player/debug utilities, history,
   errors, recent spawns, repeat, aliases, help, config, completion, hooks,
   transplant/cohesive input, panel lifecycle and save-safety boundaries.
-
-See `DC-M4.4_SIMPLIFICATION_REPORT.md`.
 
 ### Retained foundations
 
@@ -87,10 +81,10 @@ use defaults for new fields and ignore retired keys. See
 ## Verification and limits
 
 - The command/catalog/scroll/history/layout/config suite passes (294 checks);
-  exact scope is recorded in `DC-M4.5_CONSOLE_SPAWN_REPAIR_REPORT.md`. Two
+  exact scope is recorded in `DC-M5_PUBLIC_RELEASE_REPORT.md`. Two
   installed-template file contracts confirm Rusty Sword/Assault Shield identities.
 - Release/Debug builds, assembly-reference/privacy/package audits, synthetic
-  installer tests and negative authorization tests are recorded in the report.
+  installer tests and negative authorization tests are recorded in the DC-M5 report.
 - Earlier R5 manual gameplay demonstrated the foundation, not this candidate.
 - GetText, native spawning by the new inputs, UI layering/font/focus/completion,
   lifecycle/resize behavior and native save/resume all require manual retesting.

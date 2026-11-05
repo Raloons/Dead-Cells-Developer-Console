@@ -38,11 +38,9 @@ try {
         'DEVELOPER.md', 'CI.md', 'COMMAND_TEST_MATRIX.md',
         'PUBLIC_ALPHA_RELEASE_CHECKLIST.md', 'SCROLL_PERSISTENCE_INVESTIGATION.md',
         'EQUIPMENT_NAMES.md', 'AUTOCOMPLETE.md', 'UI_MODES.md',
-        'COMMAND_CHANGELOG_DC-M4.md', 'DC-M4_CONSOLE_OVERHAUL_REPORT.md',
+        'COMMAND_CHANGELOG_DC-M4.md',
         'WORKBENCH.md',
-        'DC-M4.4_SIMPLIFICATION_REPORT.md',
-        'DC-M4.5_CONSOLE_SPAWN_REPAIR_REPORT.md',
-        'DC-M4.6_CONSOLE_QOL_MUTATIONS_REPORT.md',
+        'DC-M5_PUBLIC_RELEASE_REPORT.md',
         'RELEASE_NOTES_v0.1.0-alpha.md')) {
         Copy-Item -LiteralPath (Join-Path $repo ('docs\' + $doc)) `
             -Destination (Join-Path $pkg 'docs') -Force

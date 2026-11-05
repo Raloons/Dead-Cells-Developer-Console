@@ -1,6 +1,6 @@
-# Public-release privacy audit — DC-M4.1
+# Public-release privacy audit
 
-**Result: PASS for the locally qualified DC-M4.1 source/export/package.**
+**Result: PASS for the locally qualified source/export/package.**
 Private-content terms were supplied from `DC_PRIVATE_DENYLIST`, outside the tree.
 No private names/IDs, machine paths or credentials belong in public artifacts.
 

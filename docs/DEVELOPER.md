@@ -55,7 +55,7 @@ old transplant/cohesive modes remain compatible. Native UI lifecycle/focus and
 save/resume still require manual verification.
 
 See [name resolution](EQUIPMENT_NAMES.md), [UI modes](UI_MODES.md) and the
-[DC-M4 report](DC-M4_CONSOLE_OVERHAUL_REPORT.md) for current evidence. The
+[DC-M5 release report](DC-M5_PUBLIC_RELEASE_REPORT.md) for current evidence. The
 following foundation notes remain useful but do not supersede those statuses.
 
 ## Design

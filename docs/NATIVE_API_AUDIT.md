@@ -192,10 +192,8 @@ lifecycle remain native acceptance gates.
 M4.2 built GDI-rasterized system-font atlases and M4.3 switched them to
 nearest sampling with white gutters, supported by a sampler harness. Both were
 removed with the Workbench in M4.4; the console uses the native `font12`
-bitmap font. Details remain in the archived
-[DC-M4.2](DC-M4.2_HIGH_FIDELITY_UI_REPORT.md) and
-[DC-M4.3](DC-M4.3_TYPOGRAPHY_SHARPNESS_REPORT.md) reports, excluded from the
-public package.
+bitmap font. Details were in the archived M4.2/M4.3 milestone reports, removed
+from the tree in the DC-M5 cleanup; the evidence remains in git history.
 
 ### R10 scene-transform correction
 
