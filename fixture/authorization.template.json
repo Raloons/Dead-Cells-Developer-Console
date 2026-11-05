@@ -1,0 +1,16 @@
+{
+  "schema": "dc-m2-authorization/1",
+  "synthetic": true,
+  "fixtureRoot": "<fixture root>",
+  "modSha256": "REPLACE-WITH-THE-64-CHARACTER-SHA256-OF-DeveloperConsole.dll",
+  "issuedUtc": "2026-11-03T00:00:00Z",
+  "validHours": 24,
+  "runSeconds": 120,
+  "session": "DC-M2-LIVE-1",
+  "authorizedBy": "USER-EXPLICIT-AUTHORIZATION",
+  "attestations": {
+    "noPrivateContent": true,
+    "disposableOnly": true,
+    "productionSaveBackedUp": true
+  }
+}

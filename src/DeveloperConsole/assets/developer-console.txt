@@ -1,0 +1,1 @@
+﻿Developer Console asset marker. The non-empty PackAssets list is required by the DCCM pak target.

@@ -1,0 +1,26 @@
+# Build outputs
+bin/
+obj/
+dist/
+fixture/staged/
+fixture/*.zip
+
+# IDE / editor
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+
+# Logs and local runtime data
+*.log
+log_*/
+coremod/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python/test scratch
+__pycache__/
+*.pyc

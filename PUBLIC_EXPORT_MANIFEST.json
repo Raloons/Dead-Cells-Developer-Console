@@ -1,0 +1,1327 @@
+[
+    {
+        "file":  ".github/ISSUE_TEMPLATE/bug_report.md",
+        "bytes":  639,
+        "sha256":  "845340CFA4A889D12F8FB3B989AE3899CB6FC1779603A577E10A32D26B745A51"
+    },
+    {
+        "file":  ".github/ISSUE_TEMPLATE/feature_request.md",
+        "bytes":  651,
+        "sha256":  "01A98B7B9DF09A87C1D8AFB0BB606750B3F6F69AAD9B37D55FBE11262A06431F"
+    },
+    {
+        "file":  ".github/PULL_REQUEST_TEMPLATE.md",
+        "bytes":  854,
+        "sha256":  "0DF476E4E766D3E4778C30F8BE5BD4FD6053DA728BCE507C64298ECC81DDAE60"
+    },
+    {
+        "file":  ".github/workflows/source-hygiene.yml",
+        "bytes":  1525,
+        "sha256":  "F571EF3AAB1AAE2EB4AF52DE3D2AD1D67784981E2F92208416DEB87E818CC6F3"
+    },
+    {
+        "file":  ".gitignore",
+        "bytes":  240,
+        "sha256":  "78F898AB0DEE7C36D9CBFAF5EAD6C8C18300A7ABC5A15A81E37696309E18B1A2"
+    },
+    {
+        "file":  "CONTRIBUTING.md",
+        "bytes":  2835,
+        "sha256":  "4C215FE957785352F20FBFA732CE832C3D0153BE1CC7F653257513F6D752F824"
+    },
+    {
+        "file":  "docs/AUTOCOMPLETE.md",
+        "bytes":  1874,
+        "sha256":  "3294E2786C93041B36C867638928CC3B8A5BE41CB31F93BB4838F3F5A48538F9"
+    },
+    {
+        "file":  "docs/CI.md",
+        "bytes":  1819,
+        "sha256":  "53B16F8E9A38C2BDEB728860AD658A166749897595812C98E43FE7C74216F18B"
+    },
+    {
+        "file":  "docs/COMMAND_CHANGELOG_DC-M4.md",
+        "bytes":  4174,
+        "sha256":  "EF755B17256175FC1DEAE4EC02B14EA65D0D4BEE68C344F0A802D9B0B3ABEBF4"
+    },
+    {
+        "file":  "docs/COMMAND_TEST_MATRIX.md",
+        "bytes":  4621,
+        "sha256":  "DD362BBF782B07510FFBE26B2F5779E3626C5E19F170B4ADAFD95EB19713ECEF"
+    },
+    {
+        "file":  "docs/COMMANDS.md",
+        "bytes":  9727,
+        "sha256":  "8B354331894F4572BA47EE45BB37BCF2DF7862DBAB9DEF53ED470CD913A5387C"
+    },
+    {
+        "file":  "docs/DC-M1_ENGINEERING_REPORT.md",
+        "bytes":  5569,
+        "sha256":  "7ED8DAB3E0FBC349354C15A044E25506A9A624DD8FCAA5C7E3BBE451BC7A8A57"
+    },
+    {
+        "file":  "docs/DC-M2.1_SCROLL_PERSISTENCE_REPORT.md",
+        "bytes":  12053,
+        "sha256":  "DA2437BB03D1C73E8EB6DD97C810AE419BFBA1C6A3C0D837B828ABC034DCC248"
+    },
+    {
+        "file":  "docs/DC-M2.2_RELIABILITY_REPORT.md",
+        "bytes":  8739,
+        "sha256":  "0BB0A326EBC71B8DB30365238EA3AFEFB92D2C9B389E74D9CABCC8871D969BC2"
+    },
+    {
+        "file":  "docs/DC-M2.3_PUBLIC_RELEASE_ENGINEERING_REPORT.md",
+        "bytes":  8912,
+        "sha256":  "C539CC00A58E73E924063079E0335356D1C14DEBE330ADD7CE87D97CD7C0952B"
+    },
+    {
+        "file":  "docs/DC-M2_ENGINEERING_REPORT.md",
+        "bytes":  6990,
+        "sha256":  "07B5E62D6242DCB0E28B7DDC949B0A58E875E1CD624E8598700B689D4B21E497"
+    },
+    {
+        "file":  "docs/DC-M3A_RUNTIME_VERIFICATION_REPORT.md",
+        "bytes":  6261,
+        "sha256":  "2F416DE9CF6EB60F234B4322DE787B27342A9FE05E575C82E2FD123E7EE523DC"
+    },
+    {
+        "file":  "docs/DC-M3A_SESSION_REQUEST.md",
+        "bytes":  2000,
+        "sha256":  "CAB8A33F449F65A66C87B487A245DF882DCD2C6EDE9C1EF4EFCEB8B73066EBD1"
+    },
+    {
+        "file":  "docs/DC-M4.1_OPAQUE_FIX.md",
+        "bytes":  3935,
+        "sha256":  "D474A30BAF2325339025CAE6641BA4C8F99F7C477E2BA771E87F0670957C53DB"
+    },
+    {
+        "file":  "docs/DC-M4.1_WORKBENCH_REPORT.md",
+        "bytes":  13561,
+        "sha256":  "54131904C97543888B0333F13B466AF01C442A903218406DF0AE8A51DA239CD4"
+    },
+    {
+        "file":  "docs/DC-M4.2_HIGH_FIDELITY_UI_REPORT.md",
+        "bytes":  9695,
+        "sha256":  "FFFE97D2284585070598CB898931FD671438709FC75F3202C0F17B380CB1969A"
+    },
+    {
+        "file":  "docs/DC-M4.3_TYPOGRAPHY_SHARPNESS_REPORT.md",
+        "bytes":  8782,
+        "sha256":  "CBF5E6CA0AD00F29D76572EB65817E76B2AF1BECE69064AB96C456893767F1BA"
+    },
+    {
+        "file":  "docs/DC-M4.4_SIMPLIFICATION_REPORT.md",
+        "bytes":  4586,
+        "sha256":  "2961669C6DF4B5F000371EE50ABBD9DF742A35A5A7ACB3225D8D995E90214273"
+    },
+    {
+        "file":  "docs/DC-M4.5_CONSOLE_SPAWN_REPAIR_REPORT.md",
+        "bytes":  5766,
+        "sha256":  "A2D60CD738B0BF9106E9F8750D96E87B3C5994F01F44411FDF984712D10A0B28"
+    },
+    {
+        "file":  "docs/DC-M4.6_CONSOLE_QOL_MUTATIONS_REPORT.md",
+        "bytes":  5394,
+        "sha256":  "36FD100D7E644AF45028A4087CD4BF1323E076DA8006B2E5EA79E307E004CE2A"
+    },
+    {
+        "file":  "docs/DC-M4_CONSOLE_OVERHAUL_REPORT.md",
+        "bytes":  11898,
+        "sha256":  "E30EF301213623629E8B04879D076736541252254AB6A1A188CB3908EDDADFF1"
+    },
+    {
+        "file":  "docs/DC-M4_WORK_PLAN.md",
+        "bytes":  1700,
+        "sha256":  "214130A7AFB7ADD6DA613D401344FB0215A19B9E1D34D480DD8E782F45571D34"
+    },
+    {
+        "file":  "docs/DC-M5_PUBLIC_RELEASE_REPORT.md",
+        "bytes":  4633,
+        "sha256":  "058ECF0ACA1B20907D1335253D0D1445F8FECC4052876A7B6FD89F6B2B12A6D1"
+    },
+    {
+        "file":  "docs/DEVELOPER.md",
+        "bytes":  11652,
+        "sha256":  "30F460EC888E84F96DBD5AED7D239088B0A5B2288C5DF9DB2F3B7EAFDAC8623D"
+    },
+    {
+        "file":  "docs/EQUIPMENT_NAMES.md",
+        "bytes":  5019,
+        "sha256":  "8C411980A1C98CB9FA1279D1C2D8C1901FDA2EEF385B6FEDB7DA883E928DCFD5"
+    },
+    {
+        "file":  "docs/EXTRACTION_MAP.md",
+        "bytes":  4196,
+        "sha256":  "AC953AA9016A5598062FAAE091E105E9237005BDACEB8B813328277CE124FCB9"
+    },
+    {
+        "file":  "docs/GITHUB_RELEASE_DRAFT.md",
+        "bytes":  4261,
+        "sha256":  "B16670E3097B2F5E43E51D1EEBBE3A0DA4AE9C8110E42E4715A01BA8047B2AF1"
+    },
+    {
+        "file":  "docs/INSTALL.md",
+        "bytes":  3596,
+        "sha256":  "42FD025CB8ABCA8E80470B4A9888C3ED5CC6F7E8E0FE3EA888643EBF2C432985"
+    },
+    {
+        "file":  "docs/NATIVE_API_AUDIT.md",
+        "bytes":  9388,
+        "sha256":  "2925E09DCDBA4986286AEEC47791F2CF3BD27A9E881214FE95A77F02536719CA"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/index.html",
+        "bytes":  3659,
+        "sha256":  "87477194B3D30094398FD6ED6D716F05FF6BB52E246F0B93B8E9E8D1C0FA9742"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-catalog.png",
+        "bytes":  58637,
+        "sha256":  "97D8E62FD892BC78B8A2A24A62C3B13C3F2B88E35373625169064D1F4450938E"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-catalog.svg",
+        "bytes":  19090,
+        "sha256":  "DDA488455DBEDDDE8EEFF5A2C448B79F89A7B935E4CDA9B3666B4DC91B698177"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-catalog-720.png",
+        "bytes":  45199,
+        "sha256":  "A1CC0D58BDCE8990D7AD2962779D65B4B18F74BC523B5C838E3CE54E31F2E272"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-catalog-720.svg",
+        "bytes":  16563,
+        "sha256":  "7CCA533AE3F813FCF148F26AA353E4ED2E8040AFBDCE0418FAEAE2C4BB7630FC"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-commands.png",
+        "bytes":  48950,
+        "sha256":  "1C2FCE2DD51137545245D6EF91B057837B3F40604814C4272208D2724F23FA55"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-commands.svg",
+        "bytes":  15879,
+        "sha256":  "8DE7A1C84B0B0AA68265E71A9B92E06C822E8393BC87B629C7BF4516E372B755"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-completion.png",
+        "bytes":  48832,
+        "sha256":  "A7C1685B933175B19812BAD2A1504542DE1F3A7E70361B4575BE7567C3093F3D"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-completion.svg",
+        "bytes":  15717,
+        "sha256":  "2E201AD284AC13664C57FBA6D5508F656D9EACC1CC5D5DD9F95405B47EDA0664"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-debug.png",
+        "bytes":  44978,
+        "sha256":  "1C07AFF765BA28332A19ADE8FAB605748998FF876274FAB4C7B637691EFC41BB"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-debug.svg",
+        "bytes":  13172,
+        "sha256":  "167937CE67B90F887A35C6F28CEAC9A68AC47F4EA82166AD501AD4D51ED12E96"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-help.png",
+        "bytes":  47588,
+        "sha256":  "5B47920B1D2DF6457190E00AE8B4D31A2819EC9EED25FB7CFCEAB4BDE7957B3F"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-help.svg",
+        "bytes":  13335,
+        "sha256":  "B0F5CB0905AFCB6E5E3ACF5A99C882635C89F5CDDED7A74B8CBDF0808038E1FA"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-home.png",
+        "bytes":  47993,
+        "sha256":  "F146C44AA8BA28ABAE72752935F97FE56B041B22089FC3564F474270444543E4"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-home.svg",
+        "bytes":  14451,
+        "sha256":  "315BB6E0FEBFE7705FF7DAF6AB6D9B2752C809CF37EA7C5111CDC39773B8C1E5"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-journal.png",
+        "bytes":  46081,
+        "sha256":  "0165AAAA2D4F8BED86E7B475E88F8DAB8F5BBE10FD141A5F5F0E36CDCA78F87D"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-journal.svg",
+        "bytes":  14193,
+        "sha256":  "D860C60229DFE357F6A483CF39C808C512C4D23382EB25777EBFABCB3E09E7FA"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-journal-pins.png",
+        "bytes":  44965,
+        "sha256":  "52519A52DCAF1CBBB98BE55E1891C6FFC69839C9C19368CB1F72E79525E5E0AC"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-journal-pins.svg",
+        "bytes":  14152,
+        "sha256":  "280EE3C4ED1DF2EABEE66F056909FE2D1AAD5E10BA44E2AFCB7E2EA7E8EAACFA"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-journal-recent.png",
+        "bytes":  42569,
+        "sha256":  "983DDEB2C70F10275A5BCA7E560FE44A168F50A5C727449A43D78BE0C232D4F3"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-journal-recent.svg",
+        "bytes":  13081,
+        "sha256":  "41BA4E01BB1CA6D57742EB7F6F8BB9664A82FF99B222A3A5F1256EBC53EF9E47"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-player.png",
+        "bytes":  44620,
+        "sha256":  "D762CE263D98974AF2C497B1D1DD59FC47F835169322ED6D9A146DDF0560C836"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-player.svg",
+        "bytes":  13179,
+        "sha256":  "BEF17C98E60EC43C03B2578271F1A39CF2C77F9BF1F2EA4B6C1017F4A8700DA6"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-problems.png",
+        "bytes":  56428,
+        "sha256":  "3CA47B662780DBC3B2A1FE9F30E8275522C1E0D1EB7354E6AF34B2C177442957"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-problems.svg",
+        "bytes":  18514,
+        "sha256":  "0EF857D9DEFC6259BEDCA58EB0F8D560025CDC2B21C6C1043FAA014503D24992"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-settings.png",
+        "bytes":  46601,
+        "sha256":  "C61FE3EE73CFDF6F72392D328829190E1828B21F6BB5974D8F49B371D1361DB3"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-settings.svg",
+        "bytes":  15676,
+        "sha256":  "21657523CC33507A208DA1EF5434E204D8326DA31AB7D94C4D750908F5977C8B"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-settings-behavior.png",
+        "bytes":  47618,
+        "sha256":  "5C72F27E9B707386FADEC4DC9A3911486DDB16DEC70E20B69A60573070905FAB"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-settings-behavior.svg",
+        "bytes":  15971,
+        "sha256":  "85CC43231398FF39D27050573D3A2C4BCFD2F46C98B7A11752E88C6AB62D42FD"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-settings-draft.png",
+        "bytes":  46454,
+        "sha256":  "103B221123C22E97B4CE5F30E4A1557C400D558554F6FFC50ECF212709EC9BC0"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1/workbench-settings-draft.svg",
+        "bytes":  15656,
+        "sha256":  "4020C5BF4E61A9AADEB54332147806E6CD7D7C3C7E5B3FDC5A5B09029FFE80A6"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/index.html",
+        "bytes":  3659,
+        "sha256":  "87477194B3D30094398FD6ED6D716F05FF6BB52E246F0B93B8E9E8D1C0FA9742"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-catalog.png",
+        "bytes":  58483,
+        "sha256":  "D585BDF9D30AD47FBA1D83E5C475316E00C4A81C11B488D6297677CCCB93B60A"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-catalog.svg",
+        "bytes":  19087,
+        "sha256":  "935C73CC16A5E14C2F95DB2823166AB3FF4B18E59BB15F92D84A04246D438B5A"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-catalog-720.png",
+        "bytes":  45203,
+        "sha256":  "4BBEAA172C73B420A0456A0C9E6EA1FB8F706293DBA308E92495A1D60D50CD38"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-catalog-720.svg",
+        "bytes":  16560,
+        "sha256":  "77C0745A71051D36EC79786BE1AED4622557D6F95B6F7FFF1869D64F43AC3614"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-commands.png",
+        "bytes":  48954,
+        "sha256":  "41FC7D4F082C99C9F81DE75232F6700256761800A18D517D377A3CB909BF7E02"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-commands.svg",
+        "bytes":  15876,
+        "sha256":  "29DBA580A280ACDA862828338D2FEC699EFA49CB5FAF76DC9556D9A089F706FE"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-completion.png",
+        "bytes":  48835,
+        "sha256":  "657B4F21EE173F87803F832281D796555CE5EF92F9C634AE23F0099C015B9D1B"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-completion.svg",
+        "bytes":  15714,
+        "sha256":  "3EB78C249C7E9AC3EE2C72E18C3F7D165988C18FD61D2A81ED95EAD5922EF994"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-debug.png",
+        "bytes":  44980,
+        "sha256":  "D31C7340D4AFA1C8111025E7829D1EA7790A3591ADDA2F8C867D6CBC9FEC50C3"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-debug.svg",
+        "bytes":  13169,
+        "sha256":  "970D908E59F752773C6049E7D498012EDAB99E695162B93F3A301C26E3B1A8BC"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-help.png",
+        "bytes":  47590,
+        "sha256":  "1665FD4E3B85D55E32F8EFB4271E974B2DC08BBB9476901E5950B354BE7677CC"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-help.svg",
+        "bytes":  13332,
+        "sha256":  "75653B2BC9C7286C247B3D2084EFB85410ED10EC579AA514798A0DC3F8353217"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-home.png",
+        "bytes":  47998,
+        "sha256":  "3928EF81906053024B8DEFA604277DC28C74B50A4E6E2EFE3ADC30219092D439"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-home.svg",
+        "bytes":  14448,
+        "sha256":  "87393E646BCB99FE7D24A23888C0C2DA2FFE1BEA4367434AA7B1568F7A9CFFC8"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-journal.png",
+        "bytes":  46083,
+        "sha256":  "EBA369CD5B5C505E6AE7263602EE3740F1EB347312E72F4ED48CAFA62C0A0334"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-journal.svg",
+        "bytes":  14190,
+        "sha256":  "21F8C0296A2647F94EE954974D47C004501A8F5A958CFEB7288AD69CD33B1727"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-journal-pins.png",
+        "bytes":  44968,
+        "sha256":  "6C7F903399EE8AE5B424B5AB6C892B5AE1114CD7E06EE9DE1FD2C60798E0C408"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-journal-pins.svg",
+        "bytes":  14149,
+        "sha256":  "5A1C778C9BD40EF42A6930EF82879DD8DDCDA396001F0B5F66E6BCF7C9B5CF4F"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-journal-recent.png",
+        "bytes":  42571,
+        "sha256":  "4974267477111FE2B6AEACA940D93418759AF6E4DB711A1A49A8B4C39C1A0443"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-journal-recent.svg",
+        "bytes":  13078,
+        "sha256":  "2A2023DE4E8D759FEF5813DA9DD0AC6130DB742C6677DD625835A9B791FFE915"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-player.png",
+        "bytes":  44622,
+        "sha256":  "FD9CC0ABB30EABF7FAB7C4A1EF2FB6A3661607B8C658E29B9E9F163D11AE4FDB"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-player.svg",
+        "bytes":  13176,
+        "sha256":  "83CFF3917C9560CC59EBE920D42B0272346FA2E8B3BADD4F83D03247AB75E18D"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-problems.png",
+        "bytes":  56275,
+        "sha256":  "9E0E32591144CFF86B31D2BF87A4782118C08B498E928F2B32DB75E4BC745791"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-problems.svg",
+        "bytes":  18511,
+        "sha256":  "3F977B02E8EF73A5A0EFFAC8DA60CD9D84AB0A9D988E4D21BBE1C2CEC5DFAEC8"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-settings.png",
+        "bytes":  46601,
+        "sha256":  "6E4E7E7189468DBB8FA05B4DDA83EFD15A78ADA16FEB9058DA69B20EC3664B9A"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-settings.svg",
+        "bytes":  15673,
+        "sha256":  "AAFCCFE71B469279C12496488571E58C6AC0F31D3C008FD3375D4BAE171397AB"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-settings-behavior.png",
+        "bytes":  47618,
+        "sha256":  "EC1614396264EA29429CE55E957886D6BF325D2506EF62E6705A2CDC92A1EEBE"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-settings-behavior.svg",
+        "bytes":  15968,
+        "sha256":  "1782FAC3FCC77CD18BB1B92540C6C38121CD86618500025B956E64FAF82768BB"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-settings-draft.png",
+        "bytes":  46465,
+        "sha256":  "D8790AE1FDA4659EDBDF15CF5091E15F40B52E94A1DF47FDC14A6A6B464E65DB"
+    },
+    {
+        "file":  "docs/previews/DC-M4.1-R10/workbench-settings-draft.svg",
+        "bytes":  15653,
+        "sha256":  "A3ECD8525754098FE82DA49C3577AF12B23274DA300EB99E2B3F8E9C040AFBB6"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/index.html",
+        "bytes":  3785,
+        "sha256":  "224FE93E5527B789EB56812EE5361BA86D43BE075D7247B8CD221F5D9451E728"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-catalog.png",
+        "bytes":  51573,
+        "sha256":  "834150C8B8D431E4581DD721F85B6B288E26F45D7A1A44AED9A43730A911ED66"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-catalog.svg",
+        "bytes":  19505,
+        "sha256":  "4BCCED91954AAEE26F93D2346FF0C14DCB1E597E8DDA2F4256F6C29C1C672A45"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-catalog-720.png",
+        "bytes":  40015,
+        "sha256":  "08B0F367DA3B7005782793356197F8899FC938421FE494CF6E0C98E0C1A9538F"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-catalog-720.svg",
+        "bytes":  17093,
+        "sha256":  "9B8F556E6ABA07E3BD059C8FB102C743C4C2F7DA4E0CBDA1E4BE10DA2B813BF5"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-commands.png",
+        "bytes":  47608,
+        "sha256":  "91540DE2A513B3518DAE0F440C4F9F51CBE30ADB1175A45079B1245106EDA3CE"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-commands.svg",
+        "bytes":  16963,
+        "sha256":  "E67083C05774D5C8103F8145F82D33FE7DD93AF5A0AE08065C3A0470F9AF578F"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-completion.png",
+        "bytes":  47419,
+        "sha256":  "1316DF6607CF4E008B12AF696C84D66438BADF998D26A391F335652223C04BAC"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-completion.svg",
+        "bytes":  16593,
+        "sha256":  "16D987958FA3983966514B46C5428442AB10D304570D8101FF44DF329274CB03"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-debug.png",
+        "bytes":  40523,
+        "sha256":  "38E540306B0840CDFAC55A8A6B9FC2A6E591E061FE25F6EA3BC2C8D133CA1078"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-debug.svg",
+        "bytes":  14103,
+        "sha256":  "52DDA1DD2FEB08EC530A893D791F1577AD62E25F52F208378F19A9816C9595FC"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-help.png",
+        "bytes":  40220,
+        "sha256":  "8A549C4238488726DAF6DD107BBB0AA9D34C324D8895801CA001D3DA10FB5B3A"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-help.svg",
+        "bytes":  14119,
+        "sha256":  "C9334EDB680C07AB1E5DFE871C65B5C36F3C9E845AD61C593564199342FB869A"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-home.png",
+        "bytes":  44010,
+        "sha256":  "A09E313301A742FC04935BE71ADB6CD49FE1749F70FD103C0B877EDC81607812"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-home.svg",
+        "bytes":  15951,
+        "sha256":  "E5B49F211E839C125D48D90BD51A77D883D3059CA17AF6F05299E08C9D2163AB"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-journal.png",
+        "bytes":  40028,
+        "sha256":  "2EC8E35BC19679FFAE18F9D947BA294AEE3ABF78E8D5D1C52F6E891045688479"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-journal.svg",
+        "bytes":  14737,
+        "sha256":  "107F78ACBD4C2D55BD98804FEDD820953AE111D3847694BB69B2DCD58235A396"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-journal-pins.png",
+        "bytes":  38885,
+        "sha256":  "83699699DCF1BE259E3F081FB43B377E3AF6654B82212C57971F200342E0F291"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-journal-pins.svg",
+        "bytes":  14696,
+        "sha256":  "F0F542A4269F113AC64D41216E42E08D045745A0A6BAB5CFAED8B5C1D8AEA4F6"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-journal-recent.png",
+        "bytes":  37622,
+        "sha256":  "08B8ACDDAD01526BE5A59693F2F57CCD06D10A3F53A84D3EB7AB21C82AA30309"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-journal-recent.svg",
+        "bytes":  13758,
+        "sha256":  "3A02468348227243D836034A3974C8B43FAE6F2E3235B1EC90DA9D674B54CFB8"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-player.png",
+        "bytes":  39530,
+        "sha256":  "E1285195EE332E9A8A684900BEEF7726674B0547A7D0093C356A9F10150B2546"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-player.svg",
+        "bytes":  14103,
+        "sha256":  "D56B4C7724A458A1CFD525EF2F1A62F822925978B7B92C1DD4BFB405A00093DF"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-problems.png",
+        "bytes":  49947,
+        "sha256":  "BDAC3F71ABA233172CF08042E7F591959B0AD928BC460A17626B679C498EE1A0"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-problems.svg",
+        "bytes":  18842,
+        "sha256":  "D050BCC34391C07AD0F76130354D3C5B6D37358E3177B5A048A8081D5891EC00"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-settings.png",
+        "bytes":  41106,
+        "sha256":  "39DD036DAAFE9F5E82AB5629CBB68688D33CBDA4AEA17A35B92979DBE42ACAE1"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-settings.svg",
+        "bytes":  16311,
+        "sha256":  "63CAD37EA33F287B26A53B9BC7BC92E3BB8DF1B51FCD71317DCDDB7CBC1C83AA"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-settings-behavior.png",
+        "bytes":  41739,
+        "sha256":  "4149DC6DA1291E3772D0AD088AD6451FB7D7457D2883639348C20DB253C59F7E"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-settings-behavior.svg",
+        "bytes":  16614,
+        "sha256":  "58877C60F4F3EBD6E37BC9AAED601464AF9614F7E62213C1A822E27F7B8CB343"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-settings-draft.png",
+        "bytes":  41164,
+        "sha256":  "246CDAFB3F09CBC0015B17C2A8EBBBF0844167ED0891E6A2D93F34372AAB5F7E"
+    },
+    {
+        "file":  "docs/previews/DC-M4.2/workbench-settings-draft.svg",
+        "bytes":  16311,
+        "sha256":  "E1CDB1272EE2E2FB0B0A6AEA0B7CD3614C8A9BD4E5D3D1DEB717804D17CA7198"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/index.html",
+        "bytes":  3853,
+        "sha256":  "28A89D366B54E10FCA536D1A614810952742B3D65706F9124C687FD90E553CE3"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/index.html",
+        "bytes":  3738,
+        "sha256":  "4BA61E25843AD6B38388BE522A3C04C973EC6A6FC89D37195A7FC7D7838E2F7A"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/metrics.json",
+        "bytes":  2028,
+        "sha256":  "33B32F6735647FA1171D2AE4F68C765491E146205A39C7A3C23F58F1D9F2C4C2"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-a@1.00x.png",
+        "bytes":  9698,
+        "sha256":  "EF68B18FEC4F171EBA35AE3F8CCD266C6FA087B16CA0E2F952481DD41D25C09C"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-a@1.25x.png",
+        "bytes":  23412,
+        "sha256":  "01726EF7A9E3DC5447C8FB6DA2F6729E4BB8BF92A7B52ED814F11CD24987E211"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-a@1.50x.png",
+        "bytes":  26880,
+        "sha256":  "54E440E0E2F0EEA62CC8ED434FFB0B10AC2FDEB176345C5E85FDAE2D1A168393"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-b@1.00x.png",
+        "bytes":  9698,
+        "sha256":  "EF68B18FEC4F171EBA35AE3F8CCD266C6FA087B16CA0E2F952481DD41D25C09C"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-b@1.25x.png",
+        "bytes":  23697,
+        "sha256":  "941B49843503B2361C2E35F43C15AD861F3EE9C7A67730924470C178A7EBF04F"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-b@1.50x.png",
+        "bytes":  27266,
+        "sha256":  "B2076687848766331D058FF74D15F4278018A8AE94143540F947EFE87D5CAFA6"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-c@1.00x.png",
+        "bytes":  9698,
+        "sha256":  "EF68B18FEC4F171EBA35AE3F8CCD266C6FA087B16CA0E2F952481DD41D25C09C"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-c@1.25x.png",
+        "bytes":  13450,
+        "sha256":  "8DE80885236883C03B9DC7AF4F8F8D8F2FB9310B383D8EACA4649C7B23DE66E5"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-c@1.50x.png",
+        "bytes":  15154,
+        "sha256":  "EF9816C71AFB4D4A9CC40350D86BD4D568BC9405251B5991F4A9B8D895962793"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-d@1.00x.png",
+        "bytes":  9447,
+        "sha256":  "C95BEEBBBACCBC109377CA24C9BA0786B8D6DDE3AC6E305B01F75FC9C28F092E"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-d@1.25x.png",
+        "bytes":  13389,
+        "sha256":  "3E7DF5CA057526EEE735012B4258E1AE77190729AADEDF3515A439FE475F6CF5"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-d@1.50x.png",
+        "bytes":  15164,
+        "sha256":  "3393B6BD3635E85388454FACE2199D7224F9EB3631B3ED87A920BA0FB470DCB8"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-e@1.00x.png",
+        "bytes":  4779,
+        "sha256":  "ADAF0A1F40A6028A3B276C946C4AB1D8FDA7BA8EBC63E1374E0D60A35CEFEB6C"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-e@1.25x.png",
+        "bytes":  6460,
+        "sha256":  "ED8596B28CDCEA959F7D5AE7E07A7D70BD7E14389627666BC70BBEC72EE77AC4"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-e@1.50x.png",
+        "bytes":  8205,
+        "sha256":  "30A110F1A652858913C3E3EC304DC8E8F0E22A93BCC259ABC17EE95FDAEC30EF"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-mono@1.00x.png",
+        "bytes":  2003,
+        "sha256":  "6AD5B5CD6B702C3281BD8830D20BFE3BB3FEF4F088403255DEE55A55DF7C0F41"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-mono@1.25x.png",
+        "bytes":  2528,
+        "sha256":  "D7E7E096A67EFA4EF119193C968C46F9A7DEA76E1080234116A0DC2B976F0D2F"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/type-sampling/variant-mono@1.50x.png",
+        "bytes":  2996,
+        "sha256":  "D5E8007253DEC214DC164666AA76E424EE26D428A4C369B6341CEFC613FDA663"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-catalog.png",
+        "bytes":  51574,
+        "sha256":  "5BAE75BA42AE5522D71E6F8E2729281205210B6A4BDE1C004E5B4B5F1AA2792B"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-catalog.svg",
+        "bytes":  19505,
+        "sha256":  "4BCCED91954AAEE26F93D2346FF0C14DCB1E597E8DDA2F4256F6C29C1C672A45"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-catalog-720.png",
+        "bytes":  40002,
+        "sha256":  "C6D2A2229B232F4925C1A87B9B44749E77990A992B6ADA0A1086EA02581CAFBA"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-catalog-720.svg",
+        "bytes":  17093,
+        "sha256":  "9B8F556E6ABA07E3BD059C8FB102C743C4C2F7DA4E0CBDA1E4BE10DA2B813BF5"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-commands.png",
+        "bytes":  47608,
+        "sha256":  "91540DE2A513B3518DAE0F440C4F9F51CBE30ADB1175A45079B1245106EDA3CE"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-commands.svg",
+        "bytes":  16963,
+        "sha256":  "E67083C05774D5C8103F8145F82D33FE7DD93AF5A0AE08065C3A0470F9AF578F"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-completion.png",
+        "bytes":  47419,
+        "sha256":  "1316DF6607CF4E008B12AF696C84D66438BADF998D26A391F335652223C04BAC"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-completion.svg",
+        "bytes":  16593,
+        "sha256":  "16D987958FA3983966514B46C5428442AB10D304570D8101FF44DF329274CB03"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-debug.png",
+        "bytes":  40523,
+        "sha256":  "38E540306B0840CDFAC55A8A6B9FC2A6E591E061FE25F6EA3BC2C8D133CA1078"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-debug.svg",
+        "bytes":  14103,
+        "sha256":  "52DDA1DD2FEB08EC530A893D791F1577AD62E25F52F208378F19A9816C9595FC"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-help.png",
+        "bytes":  40220,
+        "sha256":  "8A549C4238488726DAF6DD107BBB0AA9D34C324D8895801CA001D3DA10FB5B3A"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-help.svg",
+        "bytes":  14119,
+        "sha256":  "C9334EDB680C07AB1E5DFE871C65B5C36F3C9E845AD61C593564199342FB869A"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-home.png",
+        "bytes":  44010,
+        "sha256":  "A09E313301A742FC04935BE71ADB6CD49FE1749F70FD103C0B877EDC81607812"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-home.svg",
+        "bytes":  15951,
+        "sha256":  "E5B49F211E839C125D48D90BD51A77D883D3059CA17AF6F05299E08C9D2163AB"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-journal.png",
+        "bytes":  40028,
+        "sha256":  "2EC8E35BC19679FFAE18F9D947BA294AEE3ABF78E8D5D1C52F6E891045688479"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-journal.svg",
+        "bytes":  14737,
+        "sha256":  "107F78ACBD4C2D55BD98804FEDD820953AE111D3847694BB69B2DCD58235A396"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-journal-pins.png",
+        "bytes":  38885,
+        "sha256":  "83699699DCF1BE259E3F081FB43B377E3AF6654B82212C57971F200342E0F291"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-journal-pins.svg",
+        "bytes":  14696,
+        "sha256":  "F0F542A4269F113AC64D41216E42E08D045745A0A6BAB5CFAED8B5C1D8AEA4F6"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-journal-recent.png",
+        "bytes":  37622,
+        "sha256":  "08B8ACDDAD01526BE5A59693F2F57CCD06D10A3F53A84D3EB7AB21C82AA30309"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-journal-recent.svg",
+        "bytes":  13758,
+        "sha256":  "3A02468348227243D836034A3974C8B43FAE6F2E3235B1EC90DA9D674B54CFB8"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-player.png",
+        "bytes":  39530,
+        "sha256":  "E1285195EE332E9A8A684900BEEF7726674B0547A7D0093C356A9F10150B2546"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-player.svg",
+        "bytes":  14103,
+        "sha256":  "D56B4C7724A458A1CFD525EF2F1A62F822925978B7B92C1DD4BFB405A00093DF"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-problems.png",
+        "bytes":  49947,
+        "sha256":  "2E70AA19859FB13D67DC8720601A020F74E2C60E29408450ECAB0748BCA71810"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-problems.svg",
+        "bytes":  18842,
+        "sha256":  "D050BCC34391C07AD0F76130354D3C5B6D37358E3177B5A048A8081D5891EC00"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-settings.png",
+        "bytes":  41106,
+        "sha256":  "39DD036DAAFE9F5E82AB5629CBB68688D33CBDA4AEA17A35B92979DBE42ACAE1"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-settings.svg",
+        "bytes":  16311,
+        "sha256":  "63CAD37EA33F287B26A53B9BC7BC92E3BB8DF1B51FCD71317DCDDB7CBC1C83AA"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-settings-behavior.png",
+        "bytes":  41739,
+        "sha256":  "4149DC6DA1291E3772D0AD088AD6451FB7D7457D2883639348C20DB253C59F7E"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-settings-behavior.svg",
+        "bytes":  16614,
+        "sha256":  "58877C60F4F3EBD6E37BC9AAED601464AF9614F7E62213C1A822E27F7B8CB343"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-settings-draft.png",
+        "bytes":  41164,
+        "sha256":  "246CDAFB3F09CBC0015B17C2A8EBBBF0844167ED0891E6A2D93F34372AAB5F7E"
+    },
+    {
+        "file":  "docs/previews/DC-M4.3/workbench-settings-draft.svg",
+        "bytes":  16311,
+        "sha256":  "E1CDB1272EE2E2FB0B0A6AEA0B7CD3614C8A9BD4E5D3D1DEB717804D17CA7198"
+    },
+    {
+        "file":  "docs/previews/DC-M4/classic-build.svg",
+        "bytes":  2008,
+        "sha256":  "B7FC4F686E0EB2FD0861280B1D9B73BE063BEC7C63703B3588487F7E6E81ED11"
+    },
+    {
+        "file":  "docs/previews/DC-M4/classic-comparison.png",
+        "bytes":  21297,
+        "sha256":  "CE4BE1BACE55D3F314E13B378AD9910FB5F41BA5CF1E03955E1F7BBD99948434"
+    },
+    {
+        "file":  "docs/previews/DC-M4/classic-completion.svg",
+        "bytes":  1837,
+        "sha256":  "CB7D6ED149BBD17FAEF1BAB745BE4E12BCC0134C55CFE30B6A0DDAAB00749FE7"
+    },
+    {
+        "file":  "docs/previews/DC-M4/classic-error.svg",
+        "bytes":  1261,
+        "sha256":  "7A0454071E8A4A3744A01AC2116E76C7A1BF168C34699A9812E57DE2C6ADFA6D"
+    },
+    {
+        "file":  "docs/previews/DC-M4/classic-help.svg",
+        "bytes":  1947,
+        "sha256":  "E734EC034C38C81E57A2CFB145D9AB6EEAA57874620ECDB3B8C571C764C1E47D"
+    },
+    {
+        "file":  "docs/previews/DC-M4/classic-item.svg",
+        "bytes":  2065,
+        "sha256":  "DE0EC22CAF0950348ED7E217B45123F488FA6FD83F5A61E6B03ADD0B95CDD8A4"
+    },
+    {
+        "file":  "docs/previews/DC-M4/classic-search.svg",
+        "bytes":  1223,
+        "sha256":  "1FC8ACE2830CAFBC14BAAB8FDEE83212DF3C04B41B345373B0ED41397EEE1504"
+    },
+    {
+        "file":  "docs/previews/DC-M4/compact-build.svg",
+        "bytes":  1513,
+        "sha256":  "2B5D663516E34DBC9D1CBC43703118EC5659DBFD60BA12054761547D53875DF4"
+    },
+    {
+        "file":  "docs/previews/DC-M4/compact-comparison.png",
+        "bytes":  22751,
+        "sha256":  "FD3C447BFEE38EB015FAF011ABA93E9A86E842ECA47CB1C6270FAF2EE8F693D7"
+    },
+    {
+        "file":  "docs/previews/DC-M4/compact-completion.svg",
+        "bytes":  1835,
+        "sha256":  "89CE2BCEC4B280413D512B16ED0C96E10E480197236A275702DAA5495BC682AC"
+    },
+    {
+        "file":  "docs/previews/DC-M4/compact-error.svg",
+        "bytes":  1255,
+        "sha256":  "43A43A842F9399588D1F720F80977BC04D9293D5E36CCF83E47BFD6864F4AE76"
+    },
+    {
+        "file":  "docs/previews/DC-M4/compact-help.svg",
+        "bytes":  1532,
+        "sha256":  "F7D675DD4BCD907574FB59693554FBECFE7AEEF1CCCF9015D5F097A31496EFF3"
+    },
+    {
+        "file":  "docs/previews/DC-M4/compact-item.svg",
+        "bytes":  1494,
+        "sha256":  "3848908B931FF23FA787650AA69A7F99AC940522A3F28B66F3823E278435205A"
+    },
+    {
+        "file":  "docs/previews/DC-M4/compact-search.svg",
+        "bytes":  1217,
+        "sha256":  "BF7FAAB2F9E4914CFA46112608B322BC988BA80873FA47CB9668C8038CB52E0E"
+    },
+    {
+        "file":  "docs/previews/DC-M4/fancy-build.svg",
+        "bytes":  2938,
+        "sha256":  "7308854BA49DEEE2DA2AA6613469747D3ABB9AA2FCD694BC8859E235A4342C1D"
+    },
+    {
+        "file":  "docs/previews/DC-M4/fancy-comparison.png",
+        "bytes":  22924,
+        "sha256":  "C7538718EB6B78F5A3745EA4D722EE6601EA5A4DEA74B69B68B107199BD7CF27"
+    },
+    {
+        "file":  "docs/previews/DC-M4/fancy-completion.svg",
+        "bytes":  2768,
+        "sha256":  "A2E76BB052675CD24BAF0AA4E8E5D7BB2A819E88D9AD5C989D4AE8712F621047"
+    },
+    {
+        "file":  "docs/previews/DC-M4/fancy-error.svg",
+        "bytes":  2191,
+        "sha256":  "09C542AF95D0EAAA26B642A06DEE6C24B58C1E1C99AA212ACC86264F12653EE8"
+    },
+    {
+        "file":  "docs/previews/DC-M4/fancy-help.svg",
+        "bytes":  2877,
+        "sha256":  "8851B273F658513EB7159250967C90578F44C4BBFACEB8AEDF89DEE43CC63CD4"
+    },
+    {
+        "file":  "docs/previews/DC-M4/fancy-item.svg",
+        "bytes":  2995,
+        "sha256":  "0F7066DF1AAD5ACAA44E2359AF6BFC1C7247934368A1F1F235D99431B1EA6F7A"
+    },
+    {
+        "file":  "docs/previews/DC-M4/fancy-search.svg",
+        "bytes":  2153,
+        "sha256":  "6A2875242EC1EC793262796D93CEDA88C42DA3B49D38FBD6C6FB3C14B5EADA71"
+    },
+    {
+        "file":  "docs/previews/DC-M4/index.html",
+        "bytes":  4412,
+        "sha256":  "193C32169556165FF74CD5C76A39AB5CF935B8469A1713C797F64A561F79AB7A"
+    },
+    {
+        "file":  "docs/previews/DC-M4/inspector-build.svg",
+        "bytes":  3126,
+        "sha256":  "3447FC4C559A901FC1C1B6072BC29068B6D11745DEC7126072D79F60AE5F70CE"
+    },
+    {
+        "file":  "docs/previews/DC-M4/inspector-comparison.png",
+        "bytes":  27626,
+        "sha256":  "64BDC7DACFD02D0EAA5B792754EAD43094ACFB8DBA7F68E219225559512EE013"
+    },
+    {
+        "file":  "docs/previews/DC-M4/inspector-completion.svg",
+        "bytes":  2955,
+        "sha256":  "3706716D6144AA50638812432B90323D4340FA903F5AE263A61B92358C2602F8"
+    },
+    {
+        "file":  "docs/previews/DC-M4/inspector-error.svg",
+        "bytes":  2379,
+        "sha256":  "4388C4F86CDB5E3D2C92E5EA2DA5E5210419724BE488A86C53E673B153212335"
+    },
+    {
+        "file":  "docs/previews/DC-M4/inspector-help.svg",
+        "bytes":  3065,
+        "sha256":  "E3383D8314A42560ED4AEA0878BE081FF69097FFC42211A55FB1EF4AD033EA4B"
+    },
+    {
+        "file":  "docs/previews/DC-M4/inspector-item.svg",
+        "bytes":  3183,
+        "sha256":  "3CBE69154C9E23E79A64009A4F3F76D2B4EC4D044AC9FB72B32243C27D68ED1E"
+    },
+    {
+        "file":  "docs/previews/DC-M4/inspector-search.svg",
+        "bytes":  2341,
+        "sha256":  "E3410F0F80C361662E45C321F55A0E5C08322E8AB1FEDDC25C1DFE3FC30B9F1B"
+    },
+    {
+        "file":  "docs/PRIVACY_AUDIT.md",
+        "bytes":  2298,
+        "sha256":  "F026581E9D60104F151F99BBD8C24229F8DBFA0774681FE12B908E35E65FC828"
+    },
+    {
+        "file":  "docs/PUBLIC_ALPHA_RELEASE_CHECKLIST.md",
+        "bytes":  3808,
+        "sha256":  "778C0CD3CA68A169E2D0DD0C820BA06FCB01E7072B5C0952BC6537C697925107"
+    },
+    {
+        "file":  "docs/RELEASE_NOTES_v0.1.0-alpha.md",
+        "bytes":  6215,
+        "sha256":  "063AA853C49F6B6D27F8887560E807AEDE18A7E33900B60C11DE6670C81324E0"
+    },
+    {
+        "file":  "docs/RUNTIME_VERIFICATION.md",
+        "bytes":  27034,
+        "sha256":  "F601AC1B6B76EB1147E7C1DE617B085E4A570FE311EBA3168332AF649709CC05"
+    },
+    {
+        "file":  "docs/SCROLL_PERSISTENCE_INVESTIGATION.md",
+        "bytes":  5288,
+        "sha256":  "5347245B9D3F63366917E66B08ECB062DFAE1E959A50B066429485931AEB7712"
+    },
+    {
+        "file":  "docs/STEAM_LAUNCH_COMPATIBILITY.md",
+        "bytes":  4552,
+        "sha256":  "B9177385EA52DF1F553D1EA67BBE9FE04B8DD9750910ADE446CAABE8850480FC"
+    },
+    {
+        "file":  "docs/TROUBLESHOOTING.md",
+        "bytes":  6172,
+        "sha256":  "8448EC8E113BC2424F269AC39CEFC699E9F92593599FADF1EB4542FE20DEF0D2"
+    },
+    {
+        "file":  "docs/UI_MODES.md",
+        "bytes":  370,
+        "sha256":  "7FCD28ACAAED0D753FA60BAE88E7D444F335B01929218FAC7B12969BB022E257"
+    },
+    {
+        "file":  "docs/WORKBENCH.md",
+        "bytes":  895,
+        "sha256":  "04EAB714409AC41775E68F93217A8FD5A644BF053047320D9E22242A5910E406"
+    },
+    {
+        "file":  "fixture/authorization.template.json",
+        "bytes":  451,
+        "sha256":  "2DE58C06AE891E597F57C7100CE2F8ED6AC408633A8825A227FA8D6AA968F443"
+    },
+    {
+        "file":  "fixture/Invoke-RuntimeSession.ps1",
+        "bytes":  10540,
+        "sha256":  "638811C290E17B183A6CC4FE2A3C8F2791B0C77FFBA87B3A44FD680368B24C42"
+    },
+    {
+        "file":  "fixture/New-DisposableFixture.ps1",
+        "bytes":  8785,
+        "sha256":  "16FB8A4987BF1DC73DE9B0A1F2B3C9C3770B3437550BD48AD6380F7D1F9C67D6"
+    },
+    {
+        "file":  "fixture/README.md",
+        "bytes":  4622,
+        "sha256":  "D1F1F1DD37654C240A6B04D452AB5351E12248954F4CB4CDB2584B32615C265C"
+    },
+    {
+        "file":  "fixture/Runtime-Checklist.md",
+        "bytes":  4793,
+        "sha256":  "B6174D9238E38BD5B70669F06E172900523842DE738A04D17CCBCB70E37D366C"
+    },
+    {
+        "file":  "fixture/Runtime-Outcome.ps1",
+        "bytes":  533,
+        "sha256":  "A20E224673DD9FE017A7A3526601A0AE76B898C91E7BBA0C11F8B84375F993E2"
+    },
+    {
+        "file":  "fixture/Stage-Fixture.ps1",
+        "bytes":  2907,
+        "sha256":  "D46C9730B037D4F656961E75C576A2D56E4603D5D98E2D0DE9BD97F003383528"
+    },
+    {
+        "file":  "fixture/Test-AuthorizationGate.ps1",
+        "bytes":  1858,
+        "sha256":  "5E8C10EDBA2C5004ABEAFA4BCBF932ADE47E65164119F39D806D4C8C88C3F0A3"
+    },
+    {
+        "file":  "fixture/Test-FixtureAdmission.ps1",
+        "bytes":  11690,
+        "sha256":  "061E2F03241571629E4EBE155E5F66025D59FF02C9E117DAD6B2D9BFCFA267BC"
+    },
+    {
+        "file":  "fixture/Test-Installer.ps1",
+        "bytes":  3059,
+        "sha256":  "4819DA8364FED0078852B81076CBA20A17CD793A1AA31374416F30456191AAB7"
+    },
+    {
+        "file":  "fixture/Test-RuntimeOutcome.ps1",
+        "bytes":  788,
+        "sha256":  "6FD5D0B4F3DE091D81B730DECD5C168BCAE4B1ADDF780269A4672AE4C7642C0F"
+    },
+    {
+        "file":  "LICENSE",
+        "bytes":  1064,
+        "sha256":  "88527C38101C74843C44C321E8571ECE35BA8C1E672898B87301A1E32E7EA096"
+    },
+    {
+        "file":  "README.md",
+        "bytes":  5060,
+        "sha256":  "76ED4A9CE4B91A6A9DE7690B4344F010A0BF4D0A9322EFD3CC1D60F01E52915F"
+    },
+    {
+        "file":  "src/DeveloperConsole/assets/developer-console.txt",
+        "bytes":  102,
+        "sha256":  "615347E082D41F215C3EA03E5A9A0F14C147F2E6BBFDFE62AEC2BD6AD8DC4813"
+    },
+    {
+        "file":  "src/DeveloperConsole/Catalog.cs",
+        "bytes":  13711,
+        "sha256":  "A338ABD015BC5E968281D48FAA67D94D1818BBEF92D30FA6CBADF8E8758E800E"
+    },
+    {
+        "file":  "src/DeveloperConsole/CatalogCommands.cs",
+        "bytes":  16303,
+        "sha256":  "6ACA3C2494FD85A07ABD6E7F0B62F8888EBAD958ED88D3A0626CC85F321D9EA5"
+    },
+    {
+        "file":  "src/DeveloperConsole/CommandRegistry.cs",
+        "bytes":  8474,
+        "sha256":  "9E86923E09616BD531292EE242485556A73E331218E446D7B00AE69064D4BB1F"
+    },
+    {
+        "file":  "src/DeveloperConsole/CompletionEngine.cs",
+        "bytes":  3729,
+        "sha256":  "5B12CA0BBAA754802112B2060BE1B23980F1B5EFF78BA6A7A4ADF11EB36EDEEC"
+    },
+    {
+        "file":  "src/DeveloperConsole/ConsoleConfig.cs",
+        "bytes":  8195,
+        "sha256":  "76BC4D79FF78124C5316BC2079E7015CB4CE30183C972954F4EFFC089F2899A1"
+    },
+    {
+        "file":  "src/DeveloperConsole/ConsoleHistory.cs",
+        "bytes":  2414,
+        "sha256":  "6D3CF83F5C33DF1302EABFD1FF666C0352548E3E6BCFDD8B03E0B06DDD158AC0"
+    },
+    {
+        "file":  "src/DeveloperConsole/ConsoleMode.cs",
+        "bytes":  416,
+        "sha256":  "21ED56302E4D40A8724F5437DD36934A8F5CDC04FE61DCCA346F9C60B682189C"
+    },
+    {
+        "file":  "src/DeveloperConsole/ConsoleSizing.cs",
+        "bytes":  1701,
+        "sha256":  "D0A46D1EEB9AEC757C51C0AD58A1170EF9F17E2A3FD17A8E8610E981EF4F3A3D"
+    },
+    {
+        "file":  "src/DeveloperConsole/CoreCommands.cs",
+        "bytes":  10419,
+        "sha256":  "883C5DE7EFFAC1043823002EA078FE7431072F4E01A55018D2C5A879AEDDD83E"
+    },
+    {
+        "file":  "src/DeveloperConsole/DebugCommands.cs",
+        "bytes":  10769,
+        "sha256":  "3B516C889EBACCBBE83466A950C28018B95A2C7294165B41B81EBE404C7B9434"
+    },
+    {
+        "file":  "src/DeveloperConsole/DeveloperConsole.csproj",
+        "bytes":  1412,
+        "sha256":  "78E8D639CA281D8731B612D9D29BE992C0D89F80C3927F7A0027AE0CFB213DCC"
+    },
+    {
+        "file":  "src/DeveloperConsole/DeveloperConsoleMod.cs",
+        "bytes":  26499,
+        "sha256":  "5607121A6E275CF0030B7ED6A2C6A5CB5D10F270587FCF16CF4507A03B9B7CA3"
+    },
+    {
+        "file":  "src/DeveloperConsole/DevPanel.cs",
+        "bytes":  5712,
+        "sha256":  "D782A41C93C5BE65024D51120F1F64C231F84968ECED8B7CA675439530861AC6"
+    },
+    {
+        "file":  "src/DeveloperConsole/EnglishNames.cs",
+        "bytes":  3563,
+        "sha256":  "BD50C0693DA15AFD076C892318AF216A115662291D9743FCC45538B4197AAD6F"
+    },
+    {
+        "file":  "src/DeveloperConsole/EquipmentForge.cs",
+        "bytes":  8136,
+        "sha256":  "76B96F52264BFDD7FE6A10C75434540608DD02D5A23ABE657ECCAA40CB8F4CE5"
+    },
+    {
+        "file":  "src/DeveloperConsole/GameContext.cs",
+        "bytes":  5917,
+        "sha256":  "1BE078FD95240222F8905B2B9682FB8C210213316FBAD33928CA1E9E1D40AD66"
+    },
+    {
+        "file":  "src/DeveloperConsole/HistoryBuffer.cs",
+        "bytes":  2464,
+        "sha256":  "9CA8D39A686F1389E4D417E7E251A2CC774B71391185962ED27A1B4BB0EC6F4A"
+    },
+    {
+        "file":  "src/DeveloperConsole/LiveGameContext.cs",
+        "bytes":  34942,
+        "sha256":  "D8D99E914809A6617F77C05102BF1987BB9D7A6E3644CC1AE85AF5049D308BAC"
+    },
+    {
+        "file":  "src/DeveloperConsole/MutationCommands.cs",
+        "bytes":  9231,
+        "sha256":  "13B87E2F10BFE070434174EAFD5919A656C7EFB7D7D0AD3E86F3DDD94F308577"
+    },
+    {
+        "file":  "src/DeveloperConsole/PlayerCommands.cs",
+        "bytes":  15797,
+        "sha256":  "00D7439AB39BC7E7D893F53D674CA71A90843F58C084D69F1219ACEBC738C66A"
+    },
+    {
+        "file":  "src/DeveloperConsole/Presentation.cs",
+        "bytes":  4922,
+        "sha256":  "4E135A7B33249ED8DC8216F31F4F6B6CF4C9E8096F71BEEF7327D69167E3F3AE"
+    },
+    {
+        "file":  "src/DeveloperConsole/SceneTransform.cs",
+        "bytes":  437,
+        "sha256":  "776CC325E873B55AE9D28934650C80F2314A142EE0A858F4A2DE48D7915F248B"
+    },
+    {
+        "file":  "src/DeveloperConsole/ScrollPlan.cs",
+        "bytes":  1463,
+        "sha256":  "4B37E0851FC55ED9B792C9CAE3A1BEEA9043CC83F8766FE0A485660A30E90F19"
+    },
+    {
+        "file":  "src/DeveloperConsole/SessionJournal.cs",
+        "bytes":  2289,
+        "sha256":  "1AE42530EAB986647A2C0BEDB3FDDB448DDA74CCBE078F285D548DB16A4A6F6B"
+    },
+    {
+        "file":  "src/DeveloperConsole/ShortcutCommands.cs",
+        "bytes":  6297,
+        "sha256":  "9A98D2A7D78A6FD281EECD9AA0B5221C0A2133A3F4CF6088DE77B1D45971173F"
+    },
+    {
+        "file":  "src/DeveloperConsole/StatBonus.cs",
+        "bytes":  1416,
+        "sha256":  "CBDAC4212C5F1C8E579AD4472439969A8D9B92DD99A85321A2AD46C75027620C"
+    },
+    {
+        "file":  "tests/DeveloperConsole.Tests/DeveloperConsole.Tests.csproj",
+        "bytes":  485,
+        "sha256":  "1BA4F0B3DE02D60AB89D48660CC0C821B0DA9477C2562A2EA7DF9BD2D939D5BD"
+    },
+    {
+        "file":  "tests/DeveloperConsole.Tests/OverhaulTests.cs",
+        "bytes":  17649,
+        "sha256":  "530A8ECF5825473E6333DD4DB0CBFFE81A86CDB170564C085571B16301477CA7"
+    },
+    {
+        "file":  "tests/DeveloperConsole.Tests/Program.cs",
+        "bytes":  34944,
+        "sha256":  "593BC6F7C069C3B614CCF1391636EECEFDE7F410C086D637222E39FB70DB1E83"
+    },
+    {
+        "file":  "tests/DeveloperConsole.Tests/Qualification.cs",
+        "bytes":  1507,
+        "sha256":  "24864BAFF3E58E63DB7614A9BD306CDE2D8DA874A22D951CAEAE5BA001AB4A71"
+    },
+    {
+        "file":  "THIRD_PARTY_NOTICES.md",
+        "bytes":  2007,
+        "sha256":  "64F8AE301BE511267D9E67E1437DA2EBA839C17AB404FBADAC1955FF37054D38"
+    },
+    {
+        "file":  "tools/Build-Release.ps1",
+        "bytes":  7741,
+        "sha256":  "6E67E48FC9A57E0F738DF736CD48D3BC4D427B941D9FB2B18EED1394B2C2E7CE"
+    },
+    {
+        "file":  "tools/Export-PublicSource.ps1",
+        "bytes":  2583,
+        "sha256":  "41BFA756B3F1E98FB206433E55DC1E5360A2A78EEF0C9263D28B23CEE1488702"
+    },
+    {
+        "file":  "tools/Privacy-Audit.ps1",
+        "bytes":  3137,
+        "sha256":  "49FD054837A3B6108147EB916414BA7CD5FFAB0AA545F966DF2B06D3E396BC05"
+    },
+    {
+        "file":  "tools/Render-UiPreviews.ps1",
+        "bytes":  3244,
+        "sha256":  "B3A3FF6006568819AA06362687359DCBA6179B9A4224B73B406734318E6DA2FE"
+    }
+]

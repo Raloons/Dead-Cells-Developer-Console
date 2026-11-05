@@ -1,0 +1,31 @@
+name: Source hygiene
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  audit:
+    runs-on: windows-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Privacy and path audit
+        shell: pwsh
+        run: ./tools/Privacy-Audit.ps1
+
+      - name: Reject tracked binaries and saves
+        shell: pwsh
+        run: |
+          $bad = @(git ls-files | Where-Object {
+            ($_ -match '\.(dll|exe|pdb|zip|pak|cdb|dat|sav|png|jpg|jpeg|wav|ogg|bin|iso|hlboot)$') -and
+            ($_ -notmatch '^docs/previews/DC-M4/(classic|fancy|compact|inspector)-comparison\.png$') -and
+            ($_ -notmatch '^docs/previews/DC-M4\.1(?:-R10)?/workbench-(home|commands|catalog|player|debug|journal|settings|help|settings-behavior|settings-draft|completion|problems|catalog-720|journal-pins|journal-recent)\.png$') -and
+            ($_ -notmatch '^docs/previews/DC-M4\.2/workbench-(home|commands|catalog|player|debug|journal|settings|help|settings-behavior|settings-draft|completion|problems|catalog-720|journal-pins|journal-recent)\.png$') -and
+            ($_ -notmatch '^docs/previews/DC-M4\.3/workbench-(home|commands|catalog|player|debug|journal|settings|help|settings-behavior|settings-draft|completion|problems|catalog-720|journal-pins|journal-recent)\.png$') -and
+            ($_ -notmatch '^docs/previews/DC-M4\.3/type-sampling/variant-(a|b|c|d|e|mono)@[0-9.]+\x\.png$')
+          })
+          if ($bad.Count -gt 0) {
+            throw "tracked binary or save file: $($bad -join ', ')"
+          }
